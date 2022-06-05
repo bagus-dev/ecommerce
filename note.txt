@@ -1,0 +1,10 @@
+Customer -> index.php
+Admin -> admin_area/index.php
+
+Customer Login:
+- tes@gmail.com
+- lol12345
+
+Admin Login:
+- bagus.rahardjo6@gmail.com
+- lol12345
